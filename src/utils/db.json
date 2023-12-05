@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "516f907c-caf2-4547-b085-3dca36eccc7b", "title": "Cocinar", "done": false },
+    { "id": "2ab43f9f-f3d3-4b59-a651-ddebee19eb9d", "title": "Correr", "done": true }
+  ]
+}
